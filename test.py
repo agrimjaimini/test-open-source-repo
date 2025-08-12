@@ -1,1 +1,1 @@
-print("issue 14 fixed")
+print("issue 16 is now fixed")
